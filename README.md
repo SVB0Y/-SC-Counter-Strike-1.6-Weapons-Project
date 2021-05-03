@@ -165,4 +165,4 @@ There's a very long list of people/teams in the file: *cscz_credits.txt*, this f
 
 Total Size Compressed: 17 MB
 
-(.7z) [GitHub]()
+(.7z) [GitHub](https://github.com/SVB0Y/SC-Counter-Strike-Condition-Zero-Weapons/archive/refs/heads/main.zip)
