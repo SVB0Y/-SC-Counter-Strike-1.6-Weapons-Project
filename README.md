@@ -163,6 +163,6 @@ There's a very long list of people/teams in the file: *cscz_credits.txt*, this f
 
 ## Download Links
 
-Total Size Compressed: 26 MB
+Total Size Compressed: 17 MB
 
 (.7z) [GitHub]()
