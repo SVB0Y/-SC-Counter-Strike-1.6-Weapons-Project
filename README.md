@@ -38,16 +38,16 @@ This is the modified version with the weapons from the Counter Strike Condition 
 ## Gameplay Video
 
 Video:
-[![]()](https://youtu.be/KYDw9y5o8Vc)
+[![](https://i9.ytimg.com/vi/KYDw9y5o8Vc/mq1.jpg?sqp=CNTPwYQG&rs=AOn4CLCEu8woYmesv2_S0YfRrhQQPaRt_Q)](https://youtu.be/KYDw9y5o8Vc)
 *by SV BOY.*
 
 ## Screenshots
-[![](https://imgur.com/3NBBUmP)](https://imgur.com/3NBBUmP)
-[![](https://imgur.com/Y20AzgM)](https://imgur.com/Y20AzgM)
-[![](https://imgur.com/OCGwZUl)](https://imgur.com/OCGwZUl)
-[![](https://imgur.com/sK6HTRR)](https://imgur.com/sK6HTRR)
-[![](https://imgur.com/KUCW9xA)](https://imgur.com/KUCW9xA)
-[![](https://imgur.com/uvN9bsW)](https://imgur.com/uvN9bsW)
+[![](https://i.imgur.com/3NBBUmP.png)](https://i.imgur.com/3NBBUmP.png)
+[![](https://i.imgur.com/Y20AzgM.png)](https://i.imgur.com/Y20AzgM.png)
+[![](https://i.imgur.com/OCGwZUl.png)](https://i.imgur.com/OCGwZUl.png)
+[![](https://i.imgur.com/sK6HTRR.png)](https://i.imgur.com/sK6HTRR.png)
+[![](https://i.imgur.com/KUCW9xA.png)](https://i.imgur.com/KUCW9xA.png)
+[![](https://i.imgur.com/uvN9bsW.png)](https://i.imgur.com/uvN9bsW.png)
 
 ## Installation Guide
 
