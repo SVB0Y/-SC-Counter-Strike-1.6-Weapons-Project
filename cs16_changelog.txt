@@ -1,2 +1,0 @@
-Update 1.1:
--Fix player's speed not being affected when aiming with Sniper Rifles.
