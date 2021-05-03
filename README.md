@@ -2,6 +2,7 @@
 > Custom weapons project for Sven Co-op
 
 This original project is brought to you by the following super dedicated team members: D.N.I.O. 071, R4to0, and me (KernCore). This project started in late October of 2020. This is a Re-release of the original project that started in 2016.
+
 This is the modified version with the weapons from the Counter Strike Condition Zero, Ported by Garompa, Mementocity, and me (SV BOY). This is basicly just the kerncore's cs 1.6's plugin with different assets and some minor changes.
 
 ## The Weapons
