@@ -1,0 +1,50 @@
+·Original Project Authors: D.N.I.O. 071, R4to0, KernCore
+·CSCZ Version by: SV BOY, Garompa, Mementocity
+<-----------------------Scripting----------------------->
+
+·Weapon Base: KernCore
+
+·Ammo Base: KernCore
+
+·Shell Ejection Base: Solokiller
+
+·BuyMenu: KernCore, Solokiller, Zode
+
+·Water Splash: w00tguy
+
+·C4 Related Entities: Nero, KernCore (Minor Clean Up)
+
+·HE Grenade Entity: KernCore
+
+·Magazine Entities: KernCore
+
+<-----------------------Modelling----------------------->
+
+·Models: Valve
+
+·Textures: Valve
+
+·Fixing P Models for Sven: Garompa
+
+·Magazine Models: Valve, Garompa
+
+·Scope Viewmodel: D.N.I.O. 071
+
+·Hand Rig: Mementocity, Garompa
+
+·Remappable Hands: Norman, D.N.I.O. 071
+<-----------------------Sprites----------------------->
+
+·Merging Sprites Into a Single File: Original by R4to0, CSCZ Sprites by Valve, ported by SV BOY
+
+·Weapon .txt File Cleanup: R4to0, KernCore
+
+·Original Rifle Muzzleflash Event: Valve, D.N.I.O. 071
+
+<-----------------------Misc----------------------->
+
+·FGD File: D.N.I.O. 071, SV BOY
+
+·RES File: KernCore, R4to0, SV BOY
+
+·Testing: Garompa, SV BOY, KernCore
