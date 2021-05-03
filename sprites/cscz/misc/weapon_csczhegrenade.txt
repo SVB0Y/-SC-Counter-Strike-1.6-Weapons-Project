@@ -1,0 +1,4 @@
+4
+weapon			640 cscz/cscz1024 		340 360	170	45
+weapon_s		640 cscz/cscz1024 		340 405	170	45
+ammo			640 cscz/640hud7	72	96	24	24
