@@ -140,8 +140,6 @@ There are several notable differences here compared to the old project:
 * **Magazine Entities for Every Weapon**: Thanks for Garompa for compiling the model which includes all magazines for all weapons, unfortunately this means the old magazine entities no longer exist, this was necessary in order to support dropping ammo for each weapon entity.  
 * **Knife Backstabbing**: The original backstabbing functionality of the knife has been restored in this project.  
 
-Shoutout for Solokiller for helping me initially in 2016 with this project.  
-
 ## Credits
 
 You are authorized to use any assets in this pack as you see fit, as long as you credit us and whoever contributed to the making of this pack.  
