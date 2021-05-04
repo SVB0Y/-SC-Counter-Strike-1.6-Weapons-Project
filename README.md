@@ -38,7 +38,7 @@ This is the modified version with the weapons from the Counter Strike Condition 
 ## Gameplay Video
 
 Video:
-[![](https://i9.ytimg.com/vi/KYDw9y5o8Vc/mq1.jpg?sqp=CNTPwYQG&rs=AOn4CLCEu8woYmesv2_S0YfRrhQQPaRt_Q)](https://www.youtube.com/watch?v=KYDw9y5o8Vc)
+[![](https://i.ytimg.com/vi/KYDw9y5o8Vc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhxkfiESnXcWvYOlA-XvaxAMYBLg)](https://www.youtube.com/watch?v=KYDw9y5o8Vc)
 *by SV BOY.*
 
 ## Screenshots
