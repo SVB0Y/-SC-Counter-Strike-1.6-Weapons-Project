@@ -1,7 +1,7 @@
 # Counter-Strike Condition Zero Weapons Project
 > Custom weapons project for Sven Co-op
 
-This original project is brought to you by the following super dedicated team members: D.N.I.O. 071, R4to0, and me (KernCore). This project started in late October of 2020. This is a Re-release of the original project that started in 2016.
+The original 1.6 project is made by following super dedicated team members: D.N.I.O. 071, R4to0, and KernCore
 
 This is the modified version with the weapons from the Counter Strike Condition Zero, Ported by Garompa, Mementocity, and me (SV BOY). This is basicly just the kerncore's cs 1.6's plugin with different assets and some minor changes.
 
@@ -128,17 +128,7 @@ as_command cscz.bm_startmoney <value>
 ## Notes
 
 This pack includes a *.fgd* file and a *.res* file (the .res file should not be needed).  
-There are several notable differences here compared to the old project:  
-* **Organization**: The project is more organized than ever before. This helps reduce the amount of clutter and resources sent to the player.  
-* **Original Rifle Muzzleflashes**: With the knowledge obtained with past projects, we're able to bring you the original X shaped Muzzleflash for rifles back, without conflicting with the original game.  
-* **Original HE Grenade Entity**: The HE Grenade projectile thrown by the player should behave closely to the original projectile.  
-* **Customization without modification of original scripts**: Similarly to the Insurgency Project, you're now able to modify most of the entity data, without modifying the original script, in your own map script.  
-* **Original C4 Entity**: Thanks to Nero for making the original projectile, the code has been cleaned up a little bit and it allows for more customization.  
-* **Original Scope for Sniper Rifles**: Thanks for D.N.I.O. 071 for making a custom scope viewmodel that fits very well with the original sprites used in condition zero.  
-* **Fixed Player Models**: The original Condition Zero player models were fixed to fit the Sven's Playermodel skeleton, no more aiming down.  
-* **Buy Menu Similar to Condition Zero**: The menu has been redesigned to closely resemble the original Buy Menu, with the $ added as well, similarly to the Insurgency Project.  
-* **Magazine Entities for Every Weapon**: Thanks for Garompa for compiling the model which includes all magazines for all weapons, unfortunately this means the old magazine entities no longer exist, this was necessary in order to support dropping ammo for each weapon entity.  
-* **Knife Backstabbing**: The original backstabbing functionality of the knife has been restored in this project.  
+The original features from cs 1.6 plugin are still retained
 
 ## Credits
 
@@ -156,8 +146,8 @@ There's a very long list of people/teams in the file: *cscz_credits.txt*, this f
 
 ## Updates
 
-### Update 1.1:
-* Fix player's speed not being affected when aiming with Sniper Rifles.
+### Update 1.0:
+* Initial CSCZ Plugin Release.
 
 ## Download Links
 
