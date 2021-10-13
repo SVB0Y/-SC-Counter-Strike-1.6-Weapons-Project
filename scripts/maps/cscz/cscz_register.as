@@ -8,7 +8,8 @@ void PluginInit()
 
 	//Change each weapon's iPosition here so they don't conflict with Map's weapons
 	//Melees
-	CSCZ_KNIFE::POSITION 		= 10;
+	CSCZ_MACHETE::POSITION 		= 10;
+	CSCZ_KNIFE::POSITION 		= 11;
 	//Pistols
 	CSCZ_GLOCK18::POSITION 		= 10;
 	CSCZ_USP::POSITION 			= 11;
@@ -39,6 +40,7 @@ void PluginInit()
 	CSCZ_G3SG1::POSITION 		= 13;
 	//Light Machine Guns
 	CSCZ_M249::POSITION 		= 10;
+	CSCZ_M60::POSITION 			= 11;
 	//Misc
 	CSCZ_HEGRENADE::POSITION 	= 10;
 	CSCZ_C4::POSITION 			= 11;
@@ -56,6 +58,7 @@ void MapInit()
 
 	//Melees
 	g_CSCZMenu.AddItem( BuyMenu::BuyableItem( CSCZ_KNIFE::WPN_NAME, CSCZ_KNIFE::GetName(), CSCZ_KNIFE::WPN_PRICE, "melee" ) );
+	g_CSCZMenu.AddItem( BuyMenu::BuyableItem( CSCZ_MACHETE::WPN_NAME, CSCZ_MACHETE::GetName(), CSCZ_MACHETE::WPN_PRICE, "melee" ) );
 
 
 	//Pistols and Handguns
@@ -139,6 +142,8 @@ void MapInit()
 	g_CSCZMenu.AddItem( BuyMenu::BuyableItem( CSCZ_M249::WPN_NAME, CSCZ_M249::GetName(), CSCZ_M249::WPN_PRICE, "lmg" ) );
 	g_CSCZMenu.AddItem( BuyMenu::BuyableItem( CSCZ_M249::AMMO_NAME, CSCZ_M249::GetAmmoName(), CSCZ_M249::AMMO_PRICE, "ammo", "lmg" ) );
 
+	g_CSCZMenu.AddItem( BuyMenu::BuyableItem( CSCZ_M60::WPN_NAME, CSCZ_M60::GetName(), CSCZ_M60::WPN_PRICE, "lmg" ) );
+	g_CSCZMenu.AddItem( BuyMenu::BuyableItem( CSCZ_M60::AMMO_NAME, CSCZ_M60::GetAmmoName(), CSCZ_M60::AMMO_PRICE, "ammo", "lmg" ) );
 
 	//Explosives and Equipment
 	g_CSCZMenu.AddItem( BuyMenu::BuyableItem( CSCZ_HEGRENADE::WPN_NAME, CSCZ_HEGRENADE::GetName(), CSCZ_HEGRENADE::WPN_PRICE, "equip" ) );

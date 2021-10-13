@@ -1,5 +1,6 @@
 //Melees
 #include "melee/weapon_csczknife"
+#include "melee/weapon_csczmachete"
 //Pistols and Handguns
 #include "pist/weapon_csczglock18"
 #include "pist/weapon_csczusp"
@@ -19,6 +20,7 @@
 //Explosives and Equipment
 #include "misc/weapon_csczhegrenade"
 #include "misc/weapon_csczc4"
+#include "misc/weapon_cofsyringe"
 //Assault Rifles
 #include "rifl/weapon_csczfamas"
 #include "rifl/weapon_csczgalil"
@@ -32,12 +34,14 @@
 #include "snip/weapon_csczsg550"
 #include "snip/weapon_csczg3sg1"
 //Light Machine Guns
+#include "lmg/weapon_csczm60"
 #include "lmg/weapon_csczm249"
 
 void RegisterAll()
 {
 	//Melees
 	CSCZ_KNIFE::Register();
+	CSCZ_MACHETE::Register();
 	//Pistols and Handguns
 	CSCZ_GLOCK18::Register();
 	CSCZ_USP::Register();
@@ -57,6 +61,7 @@ void RegisterAll()
 	//Explosives and Equipment
 	CSCZ_HEGRENADE::Register();
 	CSCZ_C4::Register();
+	RegisterCoFSYRINGE();
 	//Assault Rifles
 	CSCZ_FAMAS::Register();
 	CSCZ_GALIL::Register();
@@ -70,5 +75,6 @@ void RegisterAll()
 	CSCZ_SG550::Register();
 	CSCZ_G3SG1::Register();
 	//Light Machine Guns
+	CSCZ_M60::Register();
 	CSCZ_M249::Register();
 }
