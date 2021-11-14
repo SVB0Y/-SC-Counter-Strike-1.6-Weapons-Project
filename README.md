@@ -29,7 +29,7 @@ This is the modified version with the weapons from the Counter Strike Condition 
 * Krieg 552 (weapon_csczsg552)
 * Leone 12 Gauge Super (weapon_csczm3)
 * Leone YG1265 Auto Shotgun (weapon_csczxm1014)
-* M60 Machine gun (weapon_csczm60
+* M60 Machine gun (weapon_csczm60)
 * Machete (weapon_csczmachete)
 * Magnum Sniper Rifle (weapon_csczawp)
 * Maverick M4A1 Carbine (weapon_csczm4a1)
