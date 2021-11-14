@@ -20,7 +20,6 @@
 //Explosives and Equipment
 #include "misc/weapon_csczhegrenade"
 #include "misc/weapon_csczc4"
-#include "misc/weapon_cofsyringe"
 //Assault Rifles
 #include "rifl/weapon_csczfamas"
 #include "rifl/weapon_csczgalil"
@@ -61,7 +60,6 @@ void RegisterAll()
 	//Explosives and Equipment
 	CSCZ_HEGRENADE::Register();
 	CSCZ_C4::Register();
-	RegisterCoFSYRINGE();
 	//Assault Rifles
 	CSCZ_FAMAS::Register();
 	CSCZ_GALIL::Register();
